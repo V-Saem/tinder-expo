@@ -13,62 +13,62 @@ import IMAGE_10 from "../images/10.jpg";
 const data: DataT[] = [
   {
     id: 1,
-    name: "Leanne Graham",
+    name: "R 19 950pm",
     isOnline: true,
     match: "78",
     description:
-      "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
+      "5 Bedroom House to Rent in Observatory.",
     message:
-      "I will go back to Gotham and I will fight men Iike this but I will not become an executioner.",
+      "Welcome to The Baker! This is a brand new development situated in PRIME Observatory. This will be a one of a kind co-living development which will boast lifestyle/community based living. The location allows all tenants easy access to shops and restaurants along with the Jamie Stop being 1km away!",
     image: IMAGE_01,
   },
   {
     id: 2,
-    name: "Clementine Bauch",
+    name: "R 19 500pm",
     match: "93",
     description:
-      "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
+      "2 Bedroom Apartment / Flat to Rent in Observatory",
     isOnline: false,
-    message: "Someone like you. Someone who'll rattle the cages.",
+    message: "Modern Apartment with Stunning Views",
     image: IMAGE_02,
   },
   {
     id: 3,
-    name: "Ervin Howell",
+    name: "R 30 000pm",
     match: "45",
     description:
-      "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
+      "3 Bedroom House to Rent in Plattekloof",
     isOnline: false,
     message:
-      "Oh, hee-hee, aha. Ha, ooh, hee, ha-ha, ha-ha. And I thought my jokes were bad.",
+      "3 Bedroom Family Home within Secure Estate!",
     image: IMAGE_03,
   },
   {
     id: 4,
-    name: "John Lebsack",
+    name: "R 9 250pm",
     match: "88",
     description:
-      "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
+      "1 Bedroom Apartment / Flat to Rent in Burgundy Estate",
     isOnline: true,
-    message: "Bats frighten me. It's time my enemies shared my dread.",
+    message: "This modern, spacious and sunny apartment is pet and family friendly. Located in The Vineyard, a secure complex with an array of great features.",
     image: IMAGE_04,
   },
   {
     id: 5,
-    name: "James Dietrich",
+    name: "R 11 750pm",
     match: "76",
     description:
-      "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
+      "2 Bedroom Apartment / Flat to Rent in Burgundy Estate",
     isOnline: false,
-    message: "It's not who I am underneath but what I do that defines me.",
+    message: "Look no Further - Ground Floor Apartment",
     image: IMAGE_05,
   },
   {
     id: 6,
-    name: "Patricia Schulist",
+    name: "R 6 400pm",
     match: "95",
     description:
-      "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
+      "2 Bedroom Apartment / Flat to Rent in Groenvallei",
     isOnline: true,
     message:
       "You have nothing, nothing to threaten me with. Nothing to do with all your strength.",
@@ -76,10 +76,10 @@ const data: DataT[] = [
   },
   {
     id: 7,
-    name: "Chelsey Weissnat",
+    name: "R 11 000pm",
     match: "67",
     description:
-      "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
+      "Commercial Property to Rent in Tyger Valley",
     isOnline: true,
     message:
       "Never start with the head. The victim gets all fuzzy. He can't feel the next... See?",
@@ -87,10 +87,10 @@ const data: DataT[] = [
   },
   {
     id: 8,
-    name: "Nicky Runol",
+    name: "R 40 000pm",
     match: "85",
     description:
-      "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
+      "Commercial Property to Rent in Newlands",
     age: "27",
     location: "Irvine, CA",
     info1: 'Straight, Single, 5"10',
@@ -104,10 +104,10 @@ const data: DataT[] = [
   },
   {
     id: 9,
-    name: "Glenna Reichert",
+    name: "R 13 000",
     match: "74",
     description:
-      "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
+      "4 Bedroom House to Rent in Ruwari",
     isOnline: true,
     message:
       "This is what happens when an unstoppable force meets an immovable object.",
@@ -115,10 +115,10 @@ const data: DataT[] = [
   },
   {
     id: 10,
-    name: "Kurtis DuBuque",
+    name: "R 15 000",
     match: "98",
     description:
-      "Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.",
+      "Industrial Property to Rent in Brackenfell Industrial.",
     isOnline: false,
     message:
       "You want order in Gotham. Batman must take off his mask and turn himself in.",
