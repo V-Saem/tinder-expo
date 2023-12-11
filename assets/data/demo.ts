@@ -24,12 +24,13 @@ const data: DataT[] = [
   },
   {
     id: 2,
-    name: "R 19 500pm",
-    match: "93",
+    name: "R 19 950pm",
+    isOnline: true,
+    match: "78",
     description:
-      "2 Bedroom Apartment / Flat to Rent in Observatory",
-    isOnline: false,
-    message: "Modern Apartment with Stunning Views",
+      "5 Bedroom House to Rent in Observatory.",
+    message:
+      "Welcome to The Baker! This is a brand new development situated in PRIME Observatory. This will be a one of a kind co-living development which will boast lifestyle/community based living. The location allows all tenants easy access to shops and restaurants along with the Jamie Stop being 1km away!",
     image: IMAGE_02,
   },
   {
